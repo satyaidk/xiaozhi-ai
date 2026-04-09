@@ -1,0 +1,34 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260201-20:17
+Connect baud: 115200
+Com:COM27
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+
+Leaving...
+com closed
+Total use time: 6 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260201-20:40
+Connect baud: 115200
+Com:COM27
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x600200
+
+Leaving...
+com closed
+Total use time: 6 s
+Download result: PASS
+*************************** END ****************************
+

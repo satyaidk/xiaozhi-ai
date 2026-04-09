@@ -1,0 +1,392 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260201-23:37
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 16464 bytes (11433 compressed) at 0x00000000 in 0.2 seconds (effective 545.6 kbit/s)...
+Wrote 3072 bytes (142 compressed) at 0x00008000 in 0.0 seconds (effective 1023.0 kbit/s)...
+Wrote 2536816 bytes (1507016 compressed) at 0x00010000 in 17.4 seconds (effective 1164.5 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 693bd47beb6a5c92550a73fcdca640f7
+Flash md5: 693bd47beb6a5c92550a73fcdca640f7
+Hash of data verified.
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: afe549bac5e55ac6de6bd0c047004a44
+Flash md5: afe549bac5e55ac6de6bd0c047004a44
+Hash of data verified.
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: 04c99156a5f1c5548a5a7593cf7cfb1a
+Flash md5: 04c99156a5f1c5548a5a7593cf7cfb1a
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 27 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-00:20
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 8 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-00:20
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\v2.0.2_bread-compact-wifi-lcd-240x240.bin
+Wrote 5446444 bytes (2328425 compressed) at 0x00000000 in 29.1 seconds (effective 1494.8 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\v2.0.2_bread-compact-wifi-lcd-240x240.bin
+File  md5: 19cfb1a5d82738ecf5bc2b280a7c3dc9
+Flash md5: 19cfb1a5d82738ecf5bc2b280a7c3dc9
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 47 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:38
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 7 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:39
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+Wrote 2316096 bytes (1332806 compressed) at 0x00000000 in 11.8 seconds (effective 1574.3 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+File  md5: 98de7f830db12a2f330d4bd030a035a4
+Flash md5: 98de7f830db12a2f330d4bd030a035a4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:45
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:58
+Connect baud: 115200
+Com:COM20
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:58
+Connect baud: 115200
+Com:COM20
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:58
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 2 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:58
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+Wrote 2316096 bytes (1332783 compressed) at 0x00000000 in 11.4 seconds (effective 1629.4 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+File  md5: e181ea3cf3007af0cfb72897b493fd96
+Flash md5: e181ea3cf3007af0cfb72897b493fd96
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:59
+Connect baud: 115200
+Com:COM20
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-12:59
+Connect baud: 115200
+Com:COM20
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:00
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:00
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\v2.0.2_bread-compact-wifi-lcd-240x240.bin
+Wrote 5446444 bytes (2328425 compressed) at 0x00000000 in 22.9 seconds (effective 1905.0 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\v2.0.2_bread-compact-wifi-lcd-240x240.bin
+File  md5: 19cfb1a5d82738ecf5bc2b280a7c3dc9
+Flash md5: 19cfb1a5d82738ecf5bc2b280a7c3dc9
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 35 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:19
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 6 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:20
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+Wrote 2602352 bytes (1520371 compressed) at 0x00000000 in 12.9 seconds (effective 1612.9 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+File  md5: 1df20220f163f4d59980613ccf88ad83
+Flash md5: 1df20220f163f4d59980613ccf88ad83
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 20 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:29
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:30
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+Wrote 2596528 bytes (1515572 compressed) at 0x00000000 in 12.8 seconds (effective 1620.2 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\firmware.bin
+File  md5: 0df07d0c58be9020a4a35e7dd001b8bb
+Flash md5: 0df07d0c58be9020a4a35e7dd001b8bb
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 20 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:32
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260202-13:32
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 16464 bytes (11431 compressed) at 0x00000000 in 0.1 seconds (effective 995.6 kbit/s)...
+Wrote 3072 bytes (142 compressed) at 0x00008000 in 0.0 seconds (effective 2338.1 kbit/s)...
+Wrote 2530992 bytes (1502698 compressed) at 0x00010000 in 12.6 seconds (effective 1608.0 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 025b4b80e14d3d4373b92b01883ac935
+Flash md5: 025b4b80e14d3d4373b92b01883ac935
+Hash of data verified.
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: afe549bac5e55ac6de6bd0c047004a44
+Flash md5: afe549bac5e55ac6de6bd0c047004a44
+Hash of data verified.
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: 18c0a24d49f5ab357beb44f8898e8750
+Flash md5: 18c0a24d49f5ab357beb44f8898e8750
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 19 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:35
+Connect baud: 115200
+Com:COM20
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.5 seconds (effective 1128.6 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:44
+Connect baud: 115200
+Com:COM21
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:44
+Connect baud: 115200
+Com:COM21
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:45
+Connect baud: 115200
+Com:COM21
+connecting...

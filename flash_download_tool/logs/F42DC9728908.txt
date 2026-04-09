@@ -1,0 +1,462 @@
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:21
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:22
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:25
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:26
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+Wrote 2455056 bytes (1457360 compressed) at 0x00000000 in 137.1 seconds (effective 143.3 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+File  md5: 53c57f9555d4ef4b2e75aa26c3bd0333
+Flash md5: 53c57f9555d4ef4b2e75aa26c3bd0333
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 146 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:33
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:34
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 131072 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 20192 bytes (13654 compressed) at 0x00000000 in 1.4 seconds (effective 118.4 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.0 seconds (effective 902.2 kbit/s)...
+Wrote 2323984 bytes (1441954 compressed) at 0x00020000 in 135.5 seconds (effective 137.2 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 4fb81dd49f505625345597329851e923
+Flash md5: 4fb81dd49f505625345597329851e923
+Hash of data verified.
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: a082cdcae6a7e8e1a0f3a27a040b45b3
+Flash md5: a082cdcae6a7e8e1a0f3a27a040b45b3
+Hash of data verified.
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: 5c22324db7aeb1556ce9e7808bb6122f
+Flash md5: 5c22324db7aeb1556ce9e7808bb6122f
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 147 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:41
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+Wrote 20192 bytes (13654 compressed) at 0x00000000 in 1.4 seconds (effective 117.3 kbit/s)...
+Wrote 3072 bytes (137 compressed) at 0x00008000 in 0.0 seconds (effective 806.3 kbit/s)...
+Wrote 2323984 bytes (1441954 compressed) at 0x00010000 in 135.3 seconds (effective 137.4 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 4fb81dd49f505625345597329851e923
+Flash md5: 4fb81dd49f505625345597329851e923
+Hash of data verified.
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: a082cdcae6a7e8e1a0f3a27a040b45b3
+Flash md5: a082cdcae6a7e8e1a0f3a27a040b45b3
+Hash of data verified.
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\xiaozhi.bin
+File  md5: 5c22324db7aeb1556ce9e7808bb6122f
+Flash md5: 5c22324db7aeb1556ce9e7808bb6122f
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 145 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:46
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:47
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\today.bin
+Wrote 65536 bytes (14838 compressed) at 0x00000000 in 1.6 seconds (effective 326.7 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\today.bin
+File  md5: 8d68f02de946ca234e0bcbfb7f193e47
+Flash md5: 8d68f02de946ca234e0bcbfb7f193e47
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:48
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\f42dc9728908_0x000_0x20000_20260226_224806.bin
+Wrote 131072 bytes (15111 compressed) at 0x00000000 in 1.8 seconds (effective 574.1 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\f42dc9728908_0x000_0x20000_20260226_224806.bin
+File  md5: 8e2ce84186164eb1cb3b7cf21f5e86ff
+Flash md5: 8e2ce84186164eb1cb3b7cf21f5e86ff
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:54
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+Wrote 2389520 bytes (1457075 compressed) at 0x00000000 in 130.8 seconds (effective 146.2 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+File  md5: 7abf63d6213af4d88659673002a078fe
+Flash md5: 7abf63d6213af4d88659673002a078fe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 140 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-22:58
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+Wrote 2389520 bytes (1457075 compressed) at 0x00000000 in 130.2 seconds (effective 146.8 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\merged.bin
+File  md5: 7abf63d6213af4d88659673002a078fe
+Flash md5: 7abf63d6213af4d88659673002a078fe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 136 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-23:09
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-23:09
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\f42dc9728908_0x000_0x400000_20260226_230845.bin
+Wrote 4194304 bytes (1460463 compressed) at 0x00000000 in 133.9 seconds (effective 250.6 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\f42dc9728908_0x000_0x400000_20260226_230845.bin
+File  md5: 8af30ac46406a4857422fd06d7988f1b
+Flash md5: 8af30ac46406a4857422fd06d7988f1b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 143 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-23:13
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260226-23:13
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\final.bin
+Wrote 4194304 bytes (1460463 compressed) at 0x00000000 in 134.1 seconds (effective 250.2 kbit/s)...
+File: D:\OCEANLABZ\ESP32\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\final.bin
+File  md5: 8af30ac46406a4857422fd06d7988f1b
+Flash md5: 8af30ac46406a4857422fd06d7988f1b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 142 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260228-16:04
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32
+Download mode: uart
+Start time: 20260228-16:05
+Connect baud: 115200
+Com:COM28
+connecting...
+MAC: [244, 45, 201, 114, 137, 8]
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+manufacturer_id: 0x5e
+device_id: 0x4016
+fs:0x100200
+address/file: 0 C:\Users\mohda\Downloads\xiaozhi\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp32-oled.bin
+Wrote 4194304 bytes (1460463 compressed) at 0x00000000 in 133.8 seconds (effective 250.7 kbit/s)...
+File: C:\Users\mohda\Downloads\xiaozhi\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\esp32-oled.bin
+File  md5: 8af30ac46406a4857422fd06d7988f1b
+Flash md5: 8af30ac46406a4857422fd06d7988f1b
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 142 s
+Download result: PASS
+*************************** END ****************************
+

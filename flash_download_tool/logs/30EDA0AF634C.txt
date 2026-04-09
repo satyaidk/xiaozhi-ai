@@ -1,0 +1,198 @@
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:45
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.3 seconds (effective 1527.5 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:45
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 11 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:46
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.3 seconds (effective 1992.0 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:47
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.3 seconds (effective 1632.1 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 2 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:47
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:47
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.3 seconds (effective 1962.7 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260208-14:49
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+fs:0x200200
+address/file: 0 C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+Wrote 65536 bytes (14872 compressed) at 0x00000000 in 0.3 seconds (effective 1620.0 kbit/s)...
+File: C:\Users\mohda\Downloads\flash_download_tool (1)\flash_download_tool\dl_temp\bin_tmp\downloadPanel1\OL_DEV_BOATD_ESP32S3_0.96SSD1306_128x64.bin
+File  md5: 3a7835465166551ac2a70064739d0efe
+Flash md5: 3a7835465166551ac2a70064739d0efe
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 2 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: usb
+Start time: 20260211-23:16
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260228-11:07
+Connect baud: 115200
+Com:COM22
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4018
+com closed
+Total use time: 15 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260228-11:08
+Connect baud: 115200
+Com:COM22
+serial port open error
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260228-11:08
+Connect baud: 115200
+Com:COM22
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260228-11:08
+Connect baud: 115200
+Com:COM21
+connecting...
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260228-11:09
+Connect baud: 115200
+Com:COM22
+connecting...
