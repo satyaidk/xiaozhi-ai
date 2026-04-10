@@ -1,4 +1,4 @@
-##  ESP32 Xiao Zhi AI Desktop Assitant
+##  ESP32 Xiao Zhi AI Desktop Gadget
 
 ## **How it works**
 
