@@ -29,7 +29,6 @@ This project doesn't run AI directly on the ESP32. Instead, it uses cloud-based 
 
 ---
 
-## Supplies
 
 ### Breadboard Version (for testing)
 
