@@ -1,4 +1,4 @@
-##  ESP32 Xiao Zhi AI Desk Assitant
+##  ESP32 Xiao Zhi AI Desktop Assitant
 
 ## **How it works**
 
