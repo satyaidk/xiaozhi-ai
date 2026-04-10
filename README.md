@@ -1,4 +1,8 @@
 ##  ESP32 Xiao Zhi AI Desk Assitant
+
+## **How it works**
+
+
 ---
 This project doesn't run AI directly on the ESP32. Instead, it uses cloud-based processing, which is why even a small board can act like a smart assistant.
 
