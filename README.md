@@ -35,7 +35,7 @@ This project doesn't run AI directly on the ESP32. Instead, it uses cloud-based 
 
 | Component | Description |
 |-----------|-------------|
-| ESP32-S3 DevKitC-1 | Main development board |
+| ESP32 DevKit Module | Main development board |
 | INMP441 | Digital I2S microphone |
 | MAX98357A | I2S audio amplifier |
 | Speaker | 4Ω–8Ω, 2–3W |
