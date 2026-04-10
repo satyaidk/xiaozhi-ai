@@ -2,6 +2,8 @@
 
 ## **How it works**
 
+<img width="1402" height="1121" alt="How Xiaozhi works" src="https://github.com/user-attachments/assets/3e38e701-fd90-414d-84be-a43e6bda5d56" />
+
 
 ---
 This project doesn't run AI directly on the ESP32. Instead, it uses cloud-based processing, which is why even a small board can act like a smart assistant.
