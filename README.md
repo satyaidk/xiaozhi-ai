@@ -52,7 +52,7 @@ Both the microphone and speaker use the **I2S interface**, making this a clean, 
 
 | Spec | Value |
 |------|-------|
-| CPU | Dual-core Xtensa LX7, up to 240 MHz |
+| CPU | Tensilica Xtensa Dual-Core 32-bit LX6, up to 240 MHz |
 | Wireless | Wi-Fi 802.11b/g/n, Bluetooth BLE |
 | Flash | 8 MB |
 | USB | Dual Type-C |
