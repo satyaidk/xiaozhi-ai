@@ -50,6 +50,16 @@ Both the microphone and speaker use the **I2S interface**, making this a clean, 
 ![esp32-devkit-v1-pinout](https://github.com/user-attachments/assets/6cfe4b95-652d-44ec-a14e-292e0571fd55)
 
 
+| Spec | Value |
+|------|-------|
+| CPU | Tensilica Xtensa Dual-Core 32-bit LX6, up to 240 MHz |
+| Wireless | 802.11 b/g/n Wi-Fi + Bluetooth v4.2 BR/EDR & BLE |
+| Flash | 4 MB |
+| USB | Micro-USB (via CP2102 or CH340 bridge) |
+| GPIO Pins | 30 |
+| Module | ESP32 DevKit V1 |
+| Memory | 520 KB SRAM / 448 KB ROM |
+
 
 ---
 ## Circuit daigram 
