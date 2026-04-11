@@ -56,7 +56,7 @@ Both the microphone and speaker use the **I2S interface**, making this a clean, 
 | Wireless | 802.11 b/g/n Wi-Fi + Bluetooth v4.2 BR/EDR & BLE |
 | Flash | 4 MB |
 | USB | Micro-USB (via CP2102 or CH340 bridge) |
-| GPIO Pins | 34 |
+| GPIO Pins | 30 |
 | Module | ESP32 DevKit V1 |
 | Memory | 520 KB SRAM / 448 KB ROM |
 
