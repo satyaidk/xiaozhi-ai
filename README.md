@@ -50,6 +50,15 @@ Both the microphone and speaker use the **I2S interface**, making this a clean, 
 ![esp32-devkit-v1-pinout](https://github.com/user-attachments/assets/6cfe4b95-652d-44ec-a14e-292e0571fd55)
 
 
+| Spec | Value |
+|------|-------|
+| CPU | Dual-core Xtensa LX7, up to 240 MHz |
+| Wireless | Wi-Fi 802.11b/g/n, Bluetooth BLE |
+| Flash | 8 MB |
+| USB | Dual Type-C |
+| GPIO Pins | 34 |
+| Module | ESP32-S3-WROOM-1-N16 |
+
 
 ---
 ## Circuit daigram 
