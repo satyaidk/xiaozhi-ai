@@ -45,6 +45,11 @@ This project doesn't run AI directly on the ESP32. Instead, it uses cloud-based 
 
 Both the microphone and speaker use the **I2S interface**, making this a clean, all-digital audio system.
 
+## ESP32 DevKit V1 Pinout
+
+![esp32-devkit-v1-pinout](https://github.com/user-attachments/assets/6cfe4b95-652d-44ec-a14e-292e0571fd55)
+
+
 
 ---
 ## Circuit daigram 
