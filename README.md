@@ -53,11 +53,12 @@ Both the microphone and speaker use the **I2S interface**, making this a clean, 
 | Spec | Value |
 |------|-------|
 | CPU | Tensilica Xtensa Dual-Core 32-bit LX6, up to 240 MHz |
-| Wireless | Wi-Fi 802.11b/g/n, Bluetooth BLE |
-| Flash | 8 MB |
-| USB | Dual Type-C |
+| Wireless | 802.11 b/g/n Wi-Fi + Bluetooth v4.2 BR/EDR & BLE |
+| Flash | 4 MB |
+| USB | Dual Type-b |
 | GPIO Pins | 34 |
-| Module | ESP32-S3-WROOM-1-N16 |
+| Module |  |
+| Memory | 520 KB SRAM / 448 KB ROM |
 
 
 ---
